@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PodCast Gospel ManáCast ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um podcast que vai trazer reflexões baseadas na bíblia de forma prática e bem explicativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT - Roteiro
+ElevenLabs - Áudio
+Capcut - Edição de Vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Vai estar na pasta prompts.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vai estar na pasta results o áudio.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio de criar algo mais natural hoje em dia não está tão difícil, temos muitas ferramentas para nos auxiliar, mas ainda assim o principal desafio é você conseguir dar muito contexto e deixar bem explicado o que você precisa, deixar as regras bem claras, tanto positivas quanto negativas. Mas podemos ir muito longe com a IA.
 ```
 
 ### Exemplos e Insigths
