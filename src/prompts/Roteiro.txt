@@ -1,0 +1,59 @@
+Roteiro - GPT
+
+
+
+Você é um roteirista de podcast, vamos criar um podcast gospel, focado em falar sobre bíblia e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast gospel e que tenha algum trocadilho bíblico no nome.
+
+O podcast vai falar sobre passagens bíblicas e destrinchar o a passagem aplicando ela no nosso dia a dia e até explicando sobre o contexto com uma complexidade de entendimento teológico médio. 
+
+Não quero nada muito complexo que precise ter um estudo muito profundo da bíblia
+
+{Regras}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome que tenha um trocadilho bíblico conhecido, dê sugestões em inglês e em português
+- O nome deve conter alguma palavras fortes
+
+{Regras Negativas}
+
+- Não quero que utilize nenhum nome de podcast já existente
+
+
+
+Capa Podcast 
+
+
+Uma imagem de um pão artesanal de padaria médio com referência de um microfone de PODCAST clássico, uma imagem em desenho complexa, rica em detalhes, com resolução alta 16k, cinemática. O formato precisa ser 1:1. Crie 4 versões  
+
+
+Roteiro 
+
+Você é um roteirista de podcast gospel, focado em falar sobre bíblia cujo o nome é "ManáCast" com o público-alvo gospel cristão carismático. 
+
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[QUAL PASSAGEM BÍBLICA DO DIA]
+[DISTRINCHAR A PASSAGEM BÍBLICA]
+[COMO APLICAR NO DIA A DIA]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+[PASSAGEM BÍBLICA] = Mateus 5:1 - 12 = As bem-aventuranças
+A versão da bíblia, utiliza a NVT (Nova Versão Transformadora)
+
+- No bloco [INTRODUÇÃO] substitua por uma instrução igual a introdução dos vídeos de podcast do canal "JesusCopy".
+- No bloco [QUAL PASSAGEM BÍBLICA DO DIA] leia a passagem bíblica [PASSAGEM BÍBLICA] e fale o tema.
+- No bloco [DISTRINCHAR A PASSAGEM BÍBLICA] substitua por a explicação do contexto bíblico da [PASSAGEM BÍBLICA].
+- No bloco [COMO APLICAR NO DIA A DIA] substitua por como o ser-humano pode aplicar no dia a dia dele a [PASSAGEM BÍBLICA].
+- No bloco [FINALIZAÇÃO] substitua por uma despedida com o final "Esse foi o episódio da semana do ManáCast, espero vocês no próximo."
+- Use termos de fácil explicação
+- O podcast vai ser apresentado por uma pessoa, chamada Jhonny.
+- O podcast deve ser curto, mas tudo deve ser bem explicado.
+
+{REGRAS NEGATIVAS}
+- Não use termos muito teológicos
+- Não ultrapasse de 13 minutos de podcast
+
+
+
